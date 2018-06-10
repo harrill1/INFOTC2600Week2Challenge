@@ -2,9 +2,9 @@
 
 #### This is a H4 header
 
-(https://www.youtube.com "This is a link to youtube")
+[This is a link to the other markdown file](https://www.youtube.com)
 
-(markdownFile.md "This is a link to the other markdown file")
+[This is a link to the other markdown file](markdownFile.md)
 
 1. **Bold text**
 2. _Italic text_
